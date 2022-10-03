@@ -1,8 +1,8 @@
 <h1>Hi, I'm Will! <br/><a href="https://www.linkedin.com/in/willbroom/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Resources:</h2>
 
-  - [Active Directory Home Lab](https://github.com/willbroom/ActiveDirectoryLab)
+  - [OSINT](https://github.com/willbroom/ActiveDirectoryLab)
 
 <h2>📜 Certifications </h2>
   
