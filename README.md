@@ -6,19 +6,18 @@
 
 <h2>📜 Certifications </h2>
   
-  -
+  - CAPSLOCK Ce-CSP
+  - Blue Team Level 1 ( BTL1 )
+  - Certificate of Information Security Management Principles (CISMP)
+  - ISO 27001 Foundation Certificate
   
 <h2>🥅 What i'm studying </h2>
   
-  - CAPSLOCK Ce-CSP
   - CompTIA Security+
   - CCSK (Certificate of Cloud Security Knowledge)
-  - CISMP (Certificate of Information Security Management Principles
-  - ISO 27001 Foundation Certificate
   - MS-500
   - AZ-500
   - SC-200
-  - BTL1
   
 <h2> 🤳 Connect with me</h2>
 
