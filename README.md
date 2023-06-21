@@ -8,6 +8,7 @@
   
   - CAPSLOCK Ce-CSP
   - Blue Team Level 1 ( BTL1 )
+  - SC-200
   - Certificate of Information Security Management Principles (CISMP)
   - ISO 27001 Foundation Certificate
   
@@ -17,7 +18,6 @@
   - CCSK (Certificate of Cloud Security Knowledge)
   - MS-500
   - AZ-500
-  - SC-200
   
 <h2> 🤳 Connect with me</h2>
 
