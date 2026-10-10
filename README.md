@@ -25,4 +25,3 @@ I'm currently building a personal library of hunting queries, detection rules an
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/willbroom/)
-- [X / Twitter](https://twitter.com/secbroom)
